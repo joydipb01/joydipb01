@@ -6,7 +6,7 @@
 <!--
 **joydipb01/joydipb01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-<p>About me</p>
+<p><u>About me</u></p>
 <ul>
   <li>Name: Joydip Kishore Bhattacharyya
   <li>Degree: I.M.Tech. (CS)
