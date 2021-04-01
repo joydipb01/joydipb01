@@ -6,7 +6,7 @@
 <!--
 **joydipb01/joydipb01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-<p style="text-decoration:underline;">About me</p>
+<p><i>About me</i></p>
 <ul>
   <li>Name: Joydip Kishore Bhattacharyya
   <li>Degree: I.M.Tech. (CS)
@@ -18,8 +18,6 @@
 ```r
 cat("Interested in", "Data Science and Machine Learning", sep=" ")
 ```
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on improving my skills
 - 🌱 I’m currently learning the tricks of trade in good programming
