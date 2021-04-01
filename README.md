@@ -1,5 +1,5 @@
 ## Hello!! 👋
-### Just another coder who likes cricket, movies and web-series
+#### Just another coder who likes cricket, movies and web-series
 
 ------------------------
 
@@ -30,5 +30,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about DS, ML
 - 📫 How to reach me: joydipb01@gmail.com
 - 😄 Pronouns: He
-- ⚡ Fun fact: Qwert Yuiop is a fictional Hungarian character, not the actual inventor of the keyboard (he's Christopher Sholes)
+- ⚡ Fun fact: Qwert Yuiop is a fictional Hungarian character, not the actual inventor of the keyboard! (he's Christopher Sholes)
 
