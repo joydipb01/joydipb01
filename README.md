@@ -12,7 +12,7 @@
   <li>Degree: I.M.Tech. (CS)
   <li>Institute: University of Hyderabad
   <li>Batch of: 2019-24
-  <li>Residing in: Hyerabad
+  <li>Residing in: Hyderabad
 </ul>
 
 ```r
