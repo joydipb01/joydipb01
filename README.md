@@ -16,7 +16,7 @@
 </ul>
 
 ```r
-cat("Interested in", "Data Science and Machine Learning", sep=" ")
+cat("Interested in", "Deep Learning and Machine Learning", sep=" ")
 ```
 
 - 🔭 I’m currently working on improving my skills
