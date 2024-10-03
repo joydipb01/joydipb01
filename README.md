@@ -11,7 +11,7 @@
   <li>Name: Joydip Kishore Bhattacharyya
   <li>Job Title: Associate, Tech Strategy & GenAI Developer
   <li>Organization: Invesco India Pvt Ltd</li>
-  <li>Alma Mater: University of Hyderabad, Integrated M.Tech. (201924)
+  <li>Alma Mater: University of Hyderabad, Integrated M.Tech. (2019 to 2024)
   <li>Residing in: Hyderabad
 </ul>
 
