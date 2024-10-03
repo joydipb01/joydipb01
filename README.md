@@ -9,9 +9,9 @@
 <p><i>About me</i></p>
 <ul>
   <li>Name: Joydip Kishore Bhattacharyya
-  <li>Degree: I.M.Tech. (CS)
-  <li>Institute: University of Hyderabad
-  <li>Batch of: 2019-24
+  <li>Job Title: Associate, Tech Strategy & GenAI Developer
+  <li>Organization: Invesco India Pvt Ltd</li>
+  <li>Alma Mater: University of Hyderabad, Integrated M.Tech. (201924)
   <li>Residing in: Hyderabad
 </ul>
 
