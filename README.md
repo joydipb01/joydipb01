@@ -9,7 +9,7 @@
 <p><i>About me</i></p>
 <ul>
   <li>Name: Joydip Kishore Bhattacharyya
-  <li>Job Title: Associate, Tech Strategy & GenAI Developer
+  <li>Job Title: Data Scientist
   <li>Organization: Invesco India Pvt Ltd</li>
   <li>Alma Mater: University of Hyderabad, Integrated M.Tech. (2019 to 2024)
   <li>Residing in: Hyderabad
@@ -19,8 +19,8 @@
 cat("Interested in", "Deep Learning and Machine Learning", sep=" ")
 ```
 
-- 🔭 I’m currently working on improving my skills
-- 🌱 I’m currently learning the tricks of trade in good programming
+- 🔭 I’m currently working on improving my skills and picking up new ones (I'm in a permanent beta phase, you see :) )
+- 🌱 I’m currently learning the best practices of programming and how classical ML/DL can be used in the age of GenAI
 - 👯 I’m looking to collaborate on projects soon!
 - 🤔 I’m looking for help with, well, any CS concept you can help me with😄
 - 💬 Ask me about DS, ML
